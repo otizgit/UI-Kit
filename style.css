@@ -70,9 +70,6 @@ header {
 .logo {
   font-size: 20px;
 }
-.logo a {
-  color: var(--white);
-}
 
 header ul {
   gap: 30px;
